@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909988156236",
+    "project_id": "projmanage-80ffa",
+    "storage_bucket": "projmanage-80ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909988156236:android:c154ee80eb15f8ddd9b5e9",
+        "android_client_info": {
+          "package_name": "com.example.projmanage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6mZ-xUwmQRcgwxQf2qQCxFasmM-pWsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
